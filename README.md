@@ -6,7 +6,6 @@ This is version of AsusWRT that works with Xiaomi Mi routers
 - Xiaomi MI R3G v2 and R4A - use R4A firmware
 - Xiaomi AC2100, Xiaomi Redmi AC2100 - use R2100 firmware for black (cylinder) variant and use RM2100 firmware for white (6 antennas) variant
 - Xiaomi R3P - use R3P firmware
-- Xiaomi MI Wifi Mini - MT7620A router, use branch 3.0.0.4_380_8591, compile image by yourself
 
 ## How to install
 1. Download image from Releases page or build it from source
